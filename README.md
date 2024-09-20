@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya SIngh 3rd undergradustae student at Bharati Vidyapeeth Punr
+- 👋 Hi, I’m Aditya SIngh 3rd undergradustae student at Bharati Vidyapeeth Pune
 - 👀 I’m interested in AI/ML and cloud computing
 - 🌱 I’m currently learning Gen Ai and working more on DSA. Loves to contribute to the open source
 - Ranked 346 at GSSoC'24
