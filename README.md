@@ -2,6 +2,9 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Gen Ai and working more on DSA. Loves to contribute to the open source
 - Ranked 346 at GSSoC'24
+- 🏅 Finalist – [Summer of Scribbling] 2025
+
+
   
 - 📫 You can connect to me on LinkedIn 
 - 😄 Pronouns: He/Him
