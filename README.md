@@ -4,6 +4,7 @@
 - Ranked 346 at GSSoC'24
 - 🏅 Finalist – [Summer of Scribbling] 2025
 - Ranked 20 @WOC 4.0-IIIT Kalyani
+- Mentor @SSoC-2025
 
 
   
