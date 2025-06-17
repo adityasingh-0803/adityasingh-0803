@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Gen Ai and working more on DSA. Loves to contribute to the open source
 - Ranked 346 at GSSoC'24
 - 🏅 Finalist – [Summer of Scribbling] 2025
+- Ranked 20 @WOC 4.0-IIIT Kalyani
 
 
   
