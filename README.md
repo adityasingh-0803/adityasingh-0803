@@ -5,7 +5,7 @@
 - 🏅 Finalist – [Summer of Scribbling] 2025
 - Ranked 20 @WOC 4.0-IIIT Kalyani
 - Mentor @SSoC-2025
-- Ranked 8th @India AI and Meity hackathon held in New Delhi in Feb'25 [72 hours hackathon]
+- Ranked 8th @India AI and Meity hackathon held in New Delhi Feb'25 [72 hours hackathon]
 
   
 - 📫 You can connect to me on LinkedIn 
