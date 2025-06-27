@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Gen Ai and working more on DSA. Loves to contribute to the open source
 - Ranked 346 at GSSoC'24
 - 🏅 Finalist – [Summer of Scribbling] 2025
-- Ranked 20 @WOC 4.0-IIIT Kalyani
+- Ranked 20 @WoC 4.0-IIIT Kalyani
 - Mentor @SSoC-2025
 - Ranked 8th @India AI and Meity hackathon held in New Delhi,Feb'25 [72 hours hackathon]
 
