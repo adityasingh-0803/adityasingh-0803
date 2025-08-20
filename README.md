@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Gen Ai and working more on DSA. Loves to contribute to the open source
 - Ranked 346 at GSSoC'24
-- 🏅 Finalist – [Summer of Scribbling] 2025
+- 🏅 Won – [Summer of Scribbling] 2025
 - Won hackathon [Rabbitt.AI-AI Hiring Show] 2025
 - Ranked 20 @WoC 4.0-IIIT Kalyani
 - Mentor @SSoC-2025, @OSCI
