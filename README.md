@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya SIngh 3rd undergraduate student at Bharati Vidyapeeth Pune
+- 👋 Hi, I’m Aditya Singh 4th undergraduate student at Bharati Vidyapeeth Pune
 - 🎓 Former Summer Intern @ IOCL (2025) ,💻 Built a Complaint Management System using Python Flask  
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Gen Ai and working more on DSA. Loves to contribute to the open source
